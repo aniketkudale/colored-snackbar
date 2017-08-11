@@ -1,0 +1,16 @@
+{
+  "name": "colored-snackbar",
+  "version": "1.0.0",
+  "description": "A super simple colored angular snackbar module.",
+  "main": "js/colored-snackbar.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "snackbar",
+    "angular-snackbar",
+    "colored-snackbar"
+  ],
+  "author": "Aniket Kudale",
+  "license": "MIT"
+}
