@@ -4,39 +4,43 @@ A super simple customizable angular snackbar module. Allows user to display cust
 
 ## Installation
 Installing this module is pretty easy using npm:
-```
+
+```python
 npm install colored-snackbar
 ```
 Then just add the dependencies into HTML and inject the `coloredSnackbar` module into your angular application module:
 
 In your `HTML`
-```
+
+```HTML
 <link rel="stylesheet" href="../css/colored-snackbar.css">
 <script src="../js/colored-snackbar.js"></script>
 ```
 In your `module.js`
-```
+
+```javascript
 angular.module('myApp', ['coloredSnackbar']);
 ```
 
 ## Usage
 Use the colored snackbar attribute directive in any of your clickable element in your HTML.:
 
-```
+```HTML
 <button type="button" colored-snackbar message="Colored Snack Bar"
         back-color="black" font-color="yellow" snack-time="3000" position="top" ng-click="showSnackbar()">
     Top Snackbar
 </button>
-
 ```
+
 Customizable options:
-```
+
+```HTML
 <button type="button" colored-snackbar message="Colored Snack Bar"
         back-color="black" font-color="yellow" snack-time="3000" position="top" ng-click="showSnackbar()">
     Top Snackbar
 </button>
-
 ```
+
 ## Options / Attributes
 
 - **message**: [String] Message you want to display in snackbar.
