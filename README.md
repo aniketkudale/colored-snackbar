@@ -1,6 +1,8 @@
 # colored-snackbar
 
-A super simple customizable angular snackbar module. Allows user to display custom colored snackbar in angular application
+A super simple customizable angular snackbar module. Allows user to display custom colored snackbar in angular application.
+
+[![NPM](https://nodei.co/npm/colored-snackbar.png?downloads=true)](https://www.npmjs.com/package/colored-snackbar/)
 
 ## Installation
 Installing this module is pretty easy using npm:
