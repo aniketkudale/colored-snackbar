@@ -1,5 +1,5 @@
 <div>
     <ng-transclude></ng-transclude>
-    <div id="colored-snackbar" ng-class="{'bottomClass':position=='bottom','topClass':position=='top', 'bottom-hide':!showVisible, 'top-hide': (!showVisible && position=='top')}" ng-show="showVisible"
+    <div id="colored-snackbar" ng-class="{'bottomClass':position=='bottom','topClass':position=='top', 'bottom-hide':!showVisible}" ng-show="showVisible"
     ng-style="{'background-color': backColor, 'color': fontColor}">{{message}}</div>
 </div>
