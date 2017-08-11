@@ -6,11 +6,18 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+   "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aniketkudale/colored-snackbar.git"
+  },
   "keywords": [
     "snackbar",
     "angular-snackbar",
     "colored-snackbar"
   ],
   "author": "Aniket Kudale",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+	"url": "https://github.com/aniketkudale/colored-snackbar/issues"
+  }
 }
