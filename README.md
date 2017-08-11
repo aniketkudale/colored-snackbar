@@ -44,6 +44,7 @@ Customizable options:
 - **font-color**: [String] Font color of text in snackbar, can be HEX value.
 - **position**: [String] Position where you want to display snackbar, two available i.e ‘top’ and ‘bottom’.
 - **snack-time**: [Number] Display duration time of your snackbar. Default is 3 seconds.
+- **showSnackbar**: [Function] To trigger colored snackbar.
 
 
 ## License
