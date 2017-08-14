@@ -38,8 +38,8 @@ Customizable options:
 
 ```HTML
 <button type="button" colored-snackbar message="Colored Snack Bar"
-        back-color="black" font-color="yellow" snack-time="3000" position="top" ng-click="showSnackbar()">
-    Top Snackbar
+        back-color="black" font-color="yellow" snack-time="3000" position="bottom" ng-click="showSnackbar()">
+    Bottom Snackbar
 </button>
 ```
 
