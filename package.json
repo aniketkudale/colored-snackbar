@@ -1,6 +1,6 @@
 {
   "name": "colored-snackbar",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "A super simple colored angular snackbar module.",
   "main": "js/colored-snackbar.js",
   "scripts": {
