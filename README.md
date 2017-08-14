@@ -4,6 +4,8 @@ A super simple customizable angular snackbar module. Allows user to display cust
 
 [![NPM](https://nodei.co/npm/colored-snackbar.png?downloads=true)](https://www.npmjs.com/package/colored-snackbar/)
 
+**[DEMO](http://www.aniket.co/labs/colored-snackbar/demo/)**
+
 ## Installation
 Installing this module is pretty easy using npm:
 
