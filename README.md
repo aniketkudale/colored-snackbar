@@ -17,8 +17,8 @@ Then just add the dependencies into HTML and inject the `coloredSnackbar` module
 In your `HTML`
 
 ```HTML
-<link rel="stylesheet" href="../css/colored-snackbar.css">
-<script src="../js/colored-snackbar.js"></script>
+<link rel="stylesheet" href="node_modules/colored-snackbar/css/colored-snackbar.css">
+<script src="node_modules/colored-snackbar/js/colored-snackbar.js"></script>
 ```
 In your `module.js`
 
